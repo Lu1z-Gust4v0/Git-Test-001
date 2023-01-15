@@ -1,3 +1,4 @@
 # Write your nickname in this list, then commit the changes and push them to github.
 
 Luiz Gustavo
+Jonathan Aires
